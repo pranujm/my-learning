@@ -1,0 +1,8 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total,Generation,Legendary
+0,18,Pidgeot,Normal,Flying,83,80,75,70,70,101,479,1,False
+1,18,PidgeotMega Pidgeot,Normal,Flying,83,80,80,135,80,121,579,1,False
+2,164,Noctowl,Normal,Flying,100,50,50,76,96,70,442,2,False
+3,398,Staraptor,Normal,Flying,85,120,70,50,60,100,485,4,False
+4,441,Chatot,Normal,Flying,76,65,45,92,42,91,411,4,False
+5,521,Unfezant,Normal,Flying,80,115,80,65,55,93,488,5,False
+6,628,Braviary,Normal,Flying,100,123,75,57,75,80,510,5,False
